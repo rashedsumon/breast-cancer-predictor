@@ -1,0 +1,10 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Local data directory (Dataset downloaded by kagglehub)
+
+
+# OS specific files
+.DS_Store
+Thumbs.db
