@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🩺 Breast Cancer Diagnostic Assistant")
+st.title("🩺 Breast Cancer Prediction")
 st.write("This application uses a Machine Learning model trained on the Wisconsin Diagnostic Breast Cancer dataset to predict whether a breast mass is **Malignant** or **Benign** based on fluid sample measurements.")
 
 # --- Step 1: Train/Load Model implicitly using Streamlit Cache ---
